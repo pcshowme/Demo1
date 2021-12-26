@@ -2,4 +2,4 @@
 This is a simple README file for the git repo FirstNewProject
 More text...
 Even More Text... now on a brach; updates
-This is bound yo cause trouble
+Just something going on
